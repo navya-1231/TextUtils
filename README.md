@@ -1,4 +1,4 @@
-<h1>📝 TextUtils – Django Text Utility Web App</h1>
+<h1>📝 TextUtils – Django Text Utility Web Application</h1>
 
 TextUtils is a simple Django-based web application that allows users to perform basic text transformations such as removing punctuation, converting text to uppercase or lowercase, and more.
 This project is beginner-friendly and helps understand Django views, templates, forms, and request handling.
